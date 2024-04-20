@@ -1,0 +1,21 @@
+.login-container {
+    width: 500px;
+    height: 300px;
+    margin-top: 1rem;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-in-btn {
+    margin-top: 1rem;
+    width: 460px;
+}
+
+.signin-title {
+    margin-top: 7rem;
+}

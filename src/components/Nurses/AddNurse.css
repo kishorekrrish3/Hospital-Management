@@ -1,0 +1,22 @@
+.add-nurse {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6rem;
+}
+
+.add-nurse-container {
+    margin-top: 2rem;
+    width: 600px;
+    padding: 2rem 4rem;
+    padding-bottom: 6rem;
+}
+
+.add-nurse-title {
+    text-align: center;
+}
+
+.add-nurse-btn {
+    margin-top: 1rem;
+    width: 474px;
+}

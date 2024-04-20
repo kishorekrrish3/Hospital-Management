@@ -1,0 +1,22 @@
+.schedule-appointment {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6rem;
+}
+
+.schedule-appointment-container {
+    margin-top: 2rem;
+    width: 600px;
+    padding: 2rem 4rem;
+    padding-bottom: 6rem;
+}
+
+.schedule-appointment-title {
+    text-align: center;
+}
+
+.schedule-appointment-btn {
+    margin-top: 1rem;
+    width: 474px;
+}

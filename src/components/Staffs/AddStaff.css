@@ -1,0 +1,25 @@
+.add-staff {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 6rem;
+}
+ 
+
+.add-staff-container {
+    margin-top: 2rem;
+    width: 600px;
+    padding: 2rem 4rem;
+    padding-bottom: 6rem;
+}
+
+.add-staff-title {
+    text-align: center;
+}
+
+.add-staff-btn {
+    margin-top: 1rem;
+    width: 474px;
+}
+

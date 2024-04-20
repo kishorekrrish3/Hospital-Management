@@ -1,0 +1,22 @@
+.add-patient-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6rem;
+}
+
+.add-patient-number-container {
+    margin-top: 2rem;
+    width: 600px;
+    padding: 2rem 4rem;
+    padding-bottom: 6rem;
+}
+
+.add-patient-number-title {
+    text-align: center;
+}
+
+.add-patient-number-btn {
+    margin-top: 1rem;
+    width: 474px;
+}

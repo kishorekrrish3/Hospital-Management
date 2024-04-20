@@ -1,0 +1,22 @@
+.generate-bill {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6rem;
+}
+
+.generate-bill-container {
+    margin-top: 2rem;
+    width: 600px;
+    padding: 2rem 4rem;
+    padding-bottom: 6rem;
+}
+
+.generate-bill-title {
+    text-align: center;
+}
+
+.generate-bill-btn {
+    margin-top: 1rem;
+    width: 474px;
+}

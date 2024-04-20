@@ -1,0 +1,22 @@
+.book-room {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6rem;
+}
+
+.book-room-container {
+    margin-top: 2rem;
+    width: 600px;
+    padding: 2rem 4rem;
+    padding-bottom: 6rem;
+}
+
+.book-room-title {
+    text-align: center;
+}
+
+.book-room-btn {
+    margin-top: 1rem;
+    width: 474px;
+}

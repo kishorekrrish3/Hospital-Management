@@ -1,0 +1,14 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+    padding-top: 2rem;
+    width: 400px;
+    height: 540px;
+    row-gap: 0.5rem;
+}
+
+.home-btn {
+    width: 240px;
+}
